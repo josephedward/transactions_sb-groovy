@@ -43,7 +43,7 @@ Apache 2.0
 
 ### Author
 
-[Joseph Edward](josephedward.vercel.app)
+[Joseph Edward](https://josephedward.vercel.app)
 
 
 
